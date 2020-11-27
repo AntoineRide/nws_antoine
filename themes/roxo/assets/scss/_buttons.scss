@@ -22,7 +22,6 @@
       &::after{
         content: attr(data-text);
         position: absolute;
-        background-color: #3c7cf3
         top: 150%;
         left: 0;
         transform: skewY(30deg);
