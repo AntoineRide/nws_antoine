@@ -18,9 +18,9 @@ J'accompagne et assiste le travail de mes collègues pour les aider à réussir 
 Mes connaissance :  
 
 Développeur HTML / CSS / JS
-                                      
+
 Langage DEBIAN UBUNTU CENTOS
-                    
+
 Connaissance Photoshop / Illustrator / Indesign
-                   
+
 Connaissance AfterEffect / Première Pro / Cinema 4D
