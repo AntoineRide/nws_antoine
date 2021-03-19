@@ -1,10 +1,10 @@
 ---
-title: "USE-LESS BRAND"
+title: "Take N Think"
 date: 2019-12-23T15:58:10+06:00
 type: portfolio
-image: "images/projects/project-thumb-one.jpg"
-category: ["UI UX"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+image: "images/projects/logo TakeNThink.png"
+category: ["Card Project"]
+project_images: ["images/projects/campagne ulule TakeNThink.png", "images/projects/card TakeNThink.png"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.

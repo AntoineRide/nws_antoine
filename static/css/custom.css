@@ -2,3 +2,63 @@
  * Feuille de style personnalisée
  ============================================ */
  
+ .btn-primary {
+    background: #f37f3c;
+    color: #fff;
+ }
+ .btn-primary:hover{
+   background:#2a60f5;;
+   color: white;
+}
+
+ .btn-secondary {
+   background: #2a60f5;
+   color: #fff;
+ }
+
+ .site-footer {
+   background: #2a60f5;
+   padding: 100px 0;
+}
+
+.site-counter {
+   padding: 85px 0;
+   color: #fff;
+   background: #2a60f5;
+}
+
+.site-project-header-content h1 span {
+   color: #f37f3c;
+}
+
+.site-project-header {
+   padding: 170px 0 100px;
+   background: #cad6f7;
+}
+h1, h2, h3, h4, h5, h6 {
+   font-family: montserrat,sans-serif;
+   font-weight: 600;
+   color: #f37f3c;
+}
+.site-project-pagination .pagination .page-item.active .page-link, .site-blog-pagination .pagination .page-item.active .page-link {
+   background-color: #f37f3c;
+   color: #fff;
+}
+   .site-project-item-content span, .site-blog-post-content span {
+      font-family: montserrat,sans-serif;
+      color: #f37f3c;
+      display: block;
+      margin-bottom: 10px;
+}
+.site-project-cta {
+   margin-top: 30px;
+   display: inline-block;
+   position: relative;
+   font-family: montserrat,sans-serif;
+   font-size: 18px;
+   font-weight: 500;
+   color: #f37f3c;
+}
+.plusdeproject:hover{
+   color: #f37f3c;
+}

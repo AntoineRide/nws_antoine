@@ -1,18 +1,26 @@
 ---
-title: "À propos"
+title: ""
 date: 2018-07-12T18:19:33+06:00
-heading : "Ensemble, construisons des projets web qui vous ressemblent & correspondent à vos besoins"
-description : "Bonjour, je suis Raphael Sanchez, artisan web basé à Rouen, entre Caen et Paris"
+heading : "Ensemble, avançons vers la modernité... "
+description : ""
 expertise_title: "Expertise"
 expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
 ---
 
 ## Qui suis-je ?
 
-Je conçois des interfaces web depuis 12 ans dans divers secteurs, en tant qu'UI designer et développeur front-end. J'ai développé des méthodologies de définition et d'accompagnement de projets.
+Bonjour,
 
-J'interviens souvent pour faciliter le travail de réflexion avant projet et je prends plaisir à échanger avec les clients lors des différentes phases de conception.
+Je m'appelle Antoine et je travaille depuis 3 ans dans l'informatique, je conçois des sites, des applications et il m'arrive parfois de faire du graphisme.
 
-Je suis également formateur HTML / CSS / JS, responsive web design, design d'interfaces et sur le CMS Wordpress.
+J'accompagne et assiste le travail de mes collègues pour les aider à réussir et accomplir leur envie. L'échange avec les clients me passionne.
 
-Contactez-moi
+Mes connaissance :  
+
+Développeur HTML / CSS / JS
+
+Langage DEBIAN UBUNTU CENTOS
+
+Connaissance Photoshop / Illustrator / Indesign
+
+Connaissance AfterEffect / Première Pro / Cinema 4D
